@@ -1,0 +1,1 @@
+python ./GIF/cnn_loss_acc.py

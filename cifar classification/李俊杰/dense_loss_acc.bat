@@ -1,0 +1,1 @@
+python ./GIF/dense_loss_acc.py
