@@ -1,5 +1,6 @@
-# Homework
-16级学期作业整理
+# Homework for the fall semester of 2018
+
+2018年秋学期作业整理(2016级)
 
 第一次作业：鸢尾花的分类 对数几率回归
 
